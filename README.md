@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @harshit1578
-- 👀 I’m interested in web development and data analytics.
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate with web developers
+- 👀 I’m interested in web development.
 - 📫 Mobile No - 9041166615
 
 <!---
