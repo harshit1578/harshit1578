@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshit1578
-- 👀 I’m interested in web development.
+- 👀 I’m interested in web development, machine learning and software testing
 - 📫 Mobile No - 9041166615
 
 <!---
